@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Games on Victor Touroul</title>
+    <link>http://localhost:1313/fr/categories/games/</link>
+    <description>Recent content in Games on Victor Touroul</description>
+    <generator>Hugo</generator>
+    <language>fr</language>
+    <lastBuildDate>Wed, 15 Feb 2023 09:00:00 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/fr/categories/games/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Haunted West</title>
+      <link>http://localhost:1313/fr/posts/haunted-west/</link>
+      <pubDate>Wed, 15 Feb 2023 09:00:00 -0700</pubDate>
+      <guid>http://localhost:1313/fr/posts/haunted-west/</guid>
+      <description>&lt;figure&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;6QGo44.gif&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;p&gt;Haunted West is a game made in 5 days during a school workshop. It is a top view 4 directional shooter where you must survive against hordes of angry ghosts.&lt;/p&gt;
+&lt;p&gt;Btn play&lt;/p&gt;
+&lt;p&gt;Gallery/carrousel assets&lt;/p&gt;
+&lt;p&gt;It was made using processing, a javascript based ide mainly used to create procedurally generated art.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Jusant</title>
+      <link>http://localhost:1313/fr/posts/jusant/</link>
+      <pubDate>Wed, 15 Feb 2023 09:00:00 -0700</pubDate>
+      <guid>http://localhost:1313/fr/posts/jusant/</guid>
+      <description>&lt;p&gt;Dans le cadre scolaire, j&amp;rsquo;ai eu l&amp;rsquo;occasion de réaliser la &lt;strong&gt;vertical slice d&amp;rsquo;un DLC du jeu Jusant.&lt;/strong&gt; Nous étions un groupe de 10 personnes (game designers, tech artists et concept artists)&lt;/p&gt;
+&lt;p&gt;Nous avons rencontré et échangé avec certains membres de la core team à l&amp;rsquo;origine du projet chez don&amp;rsquo;t nod.&lt;/p&gt;
+&lt;figure&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;s-blob-v1-IMAGE-fRkc-BPGuvA.jpg&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;p&gt;Élaboration de nouvelles mécaniques environementales :&lt;/p&gt;
+&lt;p&gt;&lt;figure&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;gif1.gif&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;figure&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;gif2.gif&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;figure&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;gif3.gif&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;figure&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;gif6.gif&#34;/&gt; 
+&lt;/figure&gt;
+&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Tomato Adventure</title>
+      <link>http://localhost:1313/fr/posts/tomato-adventure/</link>
+      <pubDate>Wed, 15 Feb 2023 09:00:00 -0700</pubDate>
+      <guid>http://localhost:1313/fr/posts/tomato-adventure/</guid>
+      <description>&lt;figure&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;gif1.gif&#34;
+         alt=&#34;gameplay de Tomato Adventure&#34;/&gt; &lt;figcaption&gt;
+            &lt;p&gt;gameplay de &lt;em&gt;Tomato Adventure&lt;/em&gt;&lt;/p&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Tomato Adventure est un court &lt;strong&gt;platformer 2D&lt;/strong&gt; d’exploration dans lequel le joueur incarne une tomate qui cherche à rejoindre son lit à la tombée de la nuit. Il a été réalisé entièrement sur la console virtuelle &lt;strong&gt;Pico8&lt;/strong&gt;.&lt;/p&gt;
+&lt;figure&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;tomato.png&#34;
+         alt=&#34;Assets&#34;/&gt; &lt;figcaption&gt;
+            &lt;p&gt;Assets&lt;/p&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;</description>
+    </item>
+  </channel>
+</rss>
