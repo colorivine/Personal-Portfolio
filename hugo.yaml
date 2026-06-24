@@ -3,10 +3,14 @@ languageCode: en-ushug
 title: Victor Touroul
 theme: ["PaperMod"]
 
+publishDir: /docs
+
 params:
   homeInfoParams:
     Title: "Hello !"
     Content: "welcome to my blog sfes ef s se fsef sef sef se s fes fsef sefse fsef se "
+
+  
 
   profileMode:
     enabled: true
@@ -16,8 +20,8 @@ params:
     imageWidth: 120 # custom size
     imageHeight: 120 # custom size
     buttons:
-      - name: Archive
-        url: "/projects"
+      - name: Posts
+        url: "/posts"
   
   ShowBreadCrumbs: true
   ShowPostNavLinks: true
@@ -32,8 +36,8 @@ languages:
       series: series
     menu:
       main:
-        - name: About
-          url: about
+        - name: Posts
+          url: posts
           weight: 1
         - name: Tags
           url: tags/

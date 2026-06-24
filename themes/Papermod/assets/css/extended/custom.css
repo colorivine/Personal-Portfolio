@@ -1,0 +1,21 @@
+#kaplay-bg {
+    position: fixed !important;
+    top: 0 !important;
+    left: 0 !important;
+    width: 100vw !important;
+    height: 100vh !important;
+
+    z-index: -1;
+    pointer-events: none;
+}
+
+/* Keep site content above the canvas */
+.main,
+.first-entry,
+.post-entry,
+.post-content,
+.header,
+.footer {
+    position: relative;
+    z-index: 1;
+}

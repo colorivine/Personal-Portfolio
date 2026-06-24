@@ -1,1 +1,35 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Games on Victor Touroul</title><link>https://example.org/tags/games/</link><description>Recent content in Games on Victor Touroul</description><generator>Hugo</generator><language>en</language><lastBuildDate>Sun, 15 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/tags/games/index.xml" rel="self" type="application/rss+xml"/><item><title>Adieu</title><link>https://example.org/posts/adieu/</link><pubDate>Sun, 15 Jan 2023 00:00:00 +0000</pubDate><guid>https://example.org/posts/adieu/</guid><description/></item><item><title>Crocodile</title><link>https://example.org/posts/crocodile/</link><pubDate>Sun, 15 Jan 2023 00:00:00 +0000</pubDate><guid>https://example.org/posts/crocodile/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Games on Victor Touroul</title>
+    <link>http://localhost:1313/tags/games/</link>
+    <description>Recent content in Games on Victor Touroul</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 15 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/games/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Adieu</title>
+      <link>http://localhost:1313/posts/adieu/</link>
+      <pubDate>Sun, 15 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/adieu/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Crocodile</title>
+      <link>http://localhost:1313/posts/crocodile/</link>
+      <pubDate>Sun, 15 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/crocodile/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pierre Qui Roule ⭐</title>
+      <link>http://localhost:1313/posts/pierre-qui-roule/</link>
+      <pubDate>Sun, 15 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/pierre-qui-roule/</guid>
+      <description>&lt;p&gt;Tempor proident minim aliquip reprehenderit dolor et ad anim Lorem duis sint eiusmod. Labore ut ea duis dolor. Incididunt consectetur proident qui occaecat incididunt do nisi Lorem. Tempor do laborum elit laboris excepteur eiusmod do. Eiusmod nisi excepteur ut amet pariatur adipisicing Lorem.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;What do you mean there is no moss ??&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Occaecat nulla excepteur dolore excepteur duis eiusmod ullamco officia anim in voluptate ea occaecat officia. Cillum sint esse velit ea officia minim fugiat. Elit ea esse id aliquip pariatur cupidatat id duis minim incididunt ea ea. Anim ut duis sunt nisi. Culpa cillum sit voluptate voluptate eiusmod dolor. Enim nisi Lorem ipsum irure est excepteur voluptate eu in enim nisi. Nostrud ipsum Lorem anim sint labore consequat do.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

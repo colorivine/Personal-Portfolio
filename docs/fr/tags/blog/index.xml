@@ -1,6 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Blog on Victor Touroul</title><link>https://example.org/fr/tags/blog/</link><description>Recent content in Blog on Victor Touroul</description><generator>Hugo</generator><language>fr</language><lastBuildDate>Wed, 15 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/fr/tags/blog/index.xml" rel="self" type="application/rss+xml"/><item><title>Boatrone</title><link>https://example.org/fr/posts/boatrone/</link><pubDate>Wed, 15 Feb 2023 00:00:00 +0000</pubDate><guid>https://example.org/fr/posts/boatrone/</guid><description>&lt;figure&gt;
-&lt;img loading="lazy" src="Jacket.png"
-alt="Cover for Boatrone"/&gt; &lt;figcaption&gt;
-&lt;p&gt;Cover for &lt;em&gt;Boatrone&lt;/em&gt;&lt;/p&gt;
-&lt;/figcaption&gt;
-&lt;/figure&gt;</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Blog on Victor Touroul</title>
+    <link>http://localhost:1313/fr/tags/blog/</link>
+    <description>Recent content in Blog on Victor Touroul</description>
+    <generator>Hugo</generator>
+    <language>fr</language>
+    <lastBuildDate>Wed, 15 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/fr/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Boatrone</title>
+      <link>http://localhost:1313/fr/posts/boatrone/</link>
+      <pubDate>Wed, 15 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fr/posts/boatrone/</guid>
+      <description>&lt;figure&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;Jacket.png&#34;
+         alt=&#34;Cover for Boatrone&#34;/&gt; &lt;figcaption&gt;
+            &lt;p&gt;Cover for &lt;em&gt;Boatrone&lt;/em&gt;&lt;/p&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;</description>
+    </item>
+  </channel>
+</rss>
