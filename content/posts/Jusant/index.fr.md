@@ -1,9 +1,13 @@
-+++
-title = 'Jusant'
-date = 2023-02-15T09:00:00-07:00
-draft = false
-categories = ['Blog','Games']
-+++
+---
+title: "Jusant"
+date: 2023-01-15
+draft: false
+tags: ['Blog','Project','Game']
+cover:
+    image: vignette.png
+    alt: "post"
+    caption: "post"
+---
 
 Dans le cadre scolaire, j'ai eu l'occasion de réaliser la **vertical slice d'un DLC du jeu Jusant.** Nous étions un groupe de 10 personnes (game designers, tech artists et concept artists)
 
