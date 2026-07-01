@@ -1,13 +1,9 @@
----
-title: "Pierre Qui Roule ⭐"
-date: 2023-01-15
-draft: false
-tags: ['Blog','Projects','Games']
-cover:
-    image: vignette.png
-    alt: "post"
-    caption: "post"
----
++++
+title = 'Pierre Qui Roule'
+date = 2023-01-15T09:00:00-07:00
+draft = false
+categories = ['Projects','Games','Blog']
++++
 
 Tempor proident minim aliquip reprehenderit dolor et ad anim Lorem duis sint eiusmod. Labore ut ea duis dolor. Incididunt consectetur proident qui occaecat incididunt do nisi Lorem. Tempor do laborum elit laboris excepteur eiusmod do. Eiusmod nisi excepteur ut amet pariatur adipisicing Lorem.
 

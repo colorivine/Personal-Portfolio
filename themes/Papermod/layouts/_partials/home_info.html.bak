@@ -1,17 +1,14 @@
 {{- with site.Params.homeInfoParams }}
-<article class="first-entry home-info" id="portfolio">
+<article class="first-entry home-info">
     <header class="entry-header">
         <h1>{{ .Title | markdownify }}</h1>
     </header>
     <div class="entry-content md-content">
         {{ $opts := dict "display" "block" }}
-        {{/*{{ .Content | $.Page.RenderString $opts }}*/}}
-        {{ i18n "portfolioSubtitle" | $.Page.RenderString $opts}}
+        {{ .Content | $.Page.RenderString $opts }}
     </div>
-    {{/*
     <footer class="entry-footer">
         {{ partial "social_icons.html" (dict "align" site.Params.homeInfoParams.AlignSocialIconsTo) }}
     </footer>
-    */}}
 </article>
 {{- end -}}

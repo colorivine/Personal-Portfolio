@@ -7,5 +7,5 @@ cover:
     image: vignette.png
     alt: "post"
     caption: "post"
-hiddenInHomeList : true
+hiddenInHomePage : true
 ---

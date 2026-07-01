@@ -6,21 +6,6 @@
     <description>Recent content in Shortcodes on Victor Touroul</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 11 Apr 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/shortcodes/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Audio and Video</title>
-      <link>http://localhost:1313/posts/hello/</link>
-      <pubDate>Sat, 11 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/hello/</guid>
-      <description>Learn how to embed audio and video in your hugo site using shortcodes and HTML.</description>
-    </item>
-    <item>
-      <title>Audio and Video</title>
-      <link>http://localhost:1313/posts/world/</link>
-      <pubDate>Sat, 11 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/world/</guid>
-      <description>Learn how to embed audio and video in your hugo site using shortcodes and HTML.</description>
-    </item>
   </channel>
 </rss>

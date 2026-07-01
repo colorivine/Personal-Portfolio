@@ -31,3 +31,9 @@
 
 - id: code_copied
   translation: "Copié !"
+
+- id: homeSubtitle
+  translation : "Salut ! Je suis un game designer polyvalent. Ici vous pouvez trouver tout mes projets et experimentations."
+
+- id: portfolioSubtitle
+  translation: "Les projets qui illustrent le mieux mes compétences, sur lesquels j'ai travaillé ces dernières années."

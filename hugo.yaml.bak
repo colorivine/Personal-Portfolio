@@ -1,0 +1,57 @@
+baseURL: https://example.org/
+languageCode: en-ushug
+title: Victor Touroul
+theme: ["PaperMod"]
+
+publishDir: /docs
+
+params:
+  homeInfoParams:
+    Title: "Hello !"
+    Content: "welcome to my blog sfes ef s se fsef sef sef se s fes fsef sefse fsef se "
+
+  
+
+  profileMode:
+    enabled: true
+    title: "<Title>" # optional default will be site title
+    subtitle: "This is subtitle"
+    imageTitle: "title of image as alt" # optional
+    imageWidth: 120 # custom size
+    imageHeight: 120 # custom size
+    buttons:
+      - name: Posts
+        url: "/posts"
+  
+  ShowBreadCrumbs: true
+  ShowPostNavLinks: true
+
+languages:
+  en:
+    languageName: "English"
+    weight: 2
+    taxonomies:
+      category: categories
+      tag: tags
+      series: series
+    menu:
+      main:
+        - name: Posts
+          url: posts
+          weight: 1
+        - name: Tags
+          url: tags/
+          weight: 4
+
+  fr:
+    languageName: "French"
+    weight: 1
+    title: Victor Touroul
+    menu:
+      main:
+        - name: Catégories
+          url: frtags
+          weight: 10
+        - name: FRSeries
+          url: frseries
+          weight: 10

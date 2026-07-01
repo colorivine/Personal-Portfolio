@@ -31,3 +31,9 @@
 
 - id: code_copied
   translation: "copied!"
+
+- id: homeSubtitle
+  translation : "Hi! I'm a versatile game designer. Here you can find all my projects and curious experiments."
+
+- id: portfolioSubtitle
+  translation: "The projects that best showcase my abilities, which I've worked on over the past few years."

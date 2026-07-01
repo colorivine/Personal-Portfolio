@@ -7,21 +7,30 @@ publishDir: /docs
 
 params:
   homeInfoParams:
-    Title: "Hello !"
-    Content: "welcome to my blog sfes ef s se fsef sef sef se s fes fsef sefse fsef se "
-
+    Title: "Portfolio"
+  buttons:
+    - name: Posts
+      url: "/posts"
+  socialIcons: # optional
+    - name: "Instagram"
+      url: "https://www.instagram.com/colorivine/"
+    - name: "Linkedin"
+      url: "https://www.linkedin.com/in/victor-touroul/"
+    - name: "Itchio"
+      url: "https://itch.io/profile/colorivine"
   
 
   profileMode:
     enabled: true
-    title: "<Title>" # optional default will be site title
-    subtitle: "This is subtitle"
-    imageTitle: "title of image as alt" # optional
-    imageWidth: 120 # custom size
-    imageHeight: 120 # custom size
+    
+    subtitle: i18n "homeSubtitle"
+    imageUrl: "./imgs/profile.gif" # optional
+    imageTitle: "me with my turning beans yepee" # optional
+    imageWidth: 200 # custom size
+    imageHeight: 200 # custom size
     buttons:
-      - name: Posts
-        url: "/posts"
+      - name: ↓ Portfolio ↓
+        url: "#portfolio"
   
   ShowBreadCrumbs: true
   ShowPostNavLinks: true
@@ -36,22 +45,27 @@ languages:
       series: series
     menu:
       main:
+        - name: Portfolio
+          url : .#portfolio
+          weight : 1
         - name: Posts
           url: posts
-          weight: 1
+          weight: 2
         - name: Tags
           url: tags/
-          weight: 4
-
+          weight: 3
+        
   fr:
     languageName: "French"
     weight: 1
-    title: Victor Touroul
     menu:
       main:
-        - name: Catégories
-          url: frtags
-          weight: 10
-        - name: FRSeries
-          url: frseries
-          weight: 10
+        - name: Portfolio
+          url : .#portfolio
+          weight : 1
+        - name: Posts
+          url: fr/posts
+          weight: 2
+        - name: Tags
+          url: fr/tags
+          weight: 3
