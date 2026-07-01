@@ -1,0 +1,22 @@
+<style>
+    .image-gallery {overflow: auto; margin-left: -1%!important;}
+    .image-gallery li {float: left; display: block; margin: 0 0 1% 1%; width: 19%;}
+    .image-gallery li a {text-align: center; text-decoration: none!important; color: #777;}
+    .image-gallery li a span {display: block; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; padding: 3px 0;}
+    .image-gallery li a img {width: 100%; display: block;}
+</style>
+
+{{ $gallery := .Get "dir" }}
+<ul class="image-gallery">
+{{ range .Page.Resources.Match (printf "%s/*" $gallery) }}
+    {{ $thumb := .Fill "300x300 center q50" }}
+    {{ $large := .Fit "1600x1600 q50" }}
+
+    <li>
+        <a href="{{ $large.RelPermalink }}" class="lightbox-image">
+            <img src="{{ $thumb.RelPermalink }}" alt="{{ path.BaseName .Name }}">
+            <span>{{ path.BaseName .Name }}</span>
+        </a>
+    </li>
+{{ end }}
+</ul>

@@ -50,9 +50,6 @@
     <loc>http://localhost:1313/posts/lego-fez/</loc>
     <lastmod>2023-01-15T09:00:00-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/pierre-qui-roule/</loc>
-    <lastmod>2023-01-15T09:00:00-07:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/posts/</loc>
     <lastmod>2023-01-15T09:00:00-07:00</lastmod>
     <xhtml:link
@@ -107,6 +104,19 @@
     <loc>http://localhost:1313/tags/featured/</loc>
     <lastmod>2023-01-15T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/game/</loc>
+    <lastmod>2023-01-15T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/fr/tags/game/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/tags/game/"
+                />
+  </url><url>
     <loc>http://localhost:1313/tags/games/</loc>
     <lastmod>2023-01-15T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -118,6 +128,35 @@
                 rel="alternate"
                 hreflang="en"
                 href="http://localhost:1313/tags/games/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/posts/jusant/</loc>
+    <lastmod>2023-01-15T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/fr/posts/jusant/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/posts/jusant/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/posts/pierre-qui-roule/</loc>
+    <lastmod>2023-01-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/project/</loc>
+    <lastmod>2023-01-15T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/fr/tags/project/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/tags/project/"
                 />
   </url><url>
     <loc>http://localhost:1313/tags/projects/</loc>

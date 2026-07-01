@@ -22,5 +22,27 @@
       <guid>http://localhost:1313/posts/crocodile/</guid>
       <description></description>
     </item>
+    <item>
+      <title>Jusant</title>
+      <link>http://localhost:1313/posts/jusant/</link>
+      <pubDate>Sun, 15 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/jusant/</guid>
+      <description>&lt;p&gt;Jusant DLC is a school project we made in two month. The aim was to create the vertical slice of a potential dlc for the game Jusant, after speaking whith the core team from studio.&lt;/p&gt;
+&lt;p&gt;Here&amp;rsquo;s how it turned out :&lt;/p&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/lm_1f1BzOm0?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;p&gt;We were two teams of 6 and 7 people, composed each of game designers and tech artists&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Pierre Qui Roule ⭐</title>
+      <link>http://localhost:1313/posts/pierre-qui-roule/</link>
+      <pubDate>Sun, 15 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/pierre-qui-roule/</guid>
+      <description>&lt;p&gt;Tempor proident minim aliquip reprehenderit dolor et ad anim Lorem duis sint eiusmod. Labore ut ea duis dolor. Incididunt consectetur proident qui occaecat incididunt do nisi Lorem. Tempor do laborum elit laboris excepteur eiusmod do. Eiusmod nisi excepteur ut amet pariatur adipisicing Lorem.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;What do you mean there is no moss ??&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Occaecat nulla excepteur dolore excepteur duis eiusmod ullamco officia anim in voluptate ea occaecat officia. Cillum sint esse velit ea officia minim fugiat. Elit ea esse id aliquip pariatur cupidatat id duis minim incididunt ea ea. Anim ut duis sunt nisi. Culpa cillum sit voluptate voluptate eiusmod dolor. Enim nisi Lorem ipsum irure est excepteur voluptate eu in enim nisi. Nostrud ipsum Lorem anim sint labore consequat do.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
