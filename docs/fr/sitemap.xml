@@ -44,6 +44,9 @@
     <loc>http://localhost:1313/fr/posts/haunted-west/</loc>
     <lastmod>2023-02-15T09:00:00-07:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/fr/posts/jusant/</loc>
+    <lastmod>2023-02-15T09:00:00-07:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/fr/posts/</loc>
     <lastmod>2023-02-15T09:00:00-07:00</lastmod>
     <xhtml:link
@@ -113,45 +116,6 @@
                 rel="alternate"
                 hreflang="fr"
                 href="http://localhost:1313/fr/tags/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/fr/tags/game/</loc>
-    <lastmod>2023-01-15T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/tags/game/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="http://localhost:1313/fr/tags/game/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/fr/posts/jusant/</loc>
-    <lastmod>2023-01-15T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/posts/jusant/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="http://localhost:1313/fr/posts/jusant/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/fr/tags/project/</loc>
-    <lastmod>2023-01-15T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/tags/project/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="http://localhost:1313/fr/tags/project/"
                 />
   </url><url>
     <loc>http://localhost:1313/fr/posts/kepler-kisser/</loc>

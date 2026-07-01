@@ -42,9 +42,6 @@ languages:
         - name: Tags
           url: tags/
           weight: 4
-        - name: Portfolio
-          url : .#portfolio
-          weight : 3
 
   fr:
     languageName: "French"
