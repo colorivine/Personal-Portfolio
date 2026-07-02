@@ -2,124 +2,124 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/tags/game/</loc>
+    <loc>http://localhost:1313/Personal-Portfolio/tags/game/</loc>
     <lastmod>2026-07-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/tags/game/"
+                href="http://localhost:1313/Personal-Portfolio/fr/tags/game/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/tags/game/"
+                href="http://localhost:1313/Personal-Portfolio/tags/game/"
                 />
   </url><url>
-    <loc>http://localhost:1313/posts/pierre-qui-roule/</loc>
+    <loc>http://localhost:1313/Personal-Portfolio/posts/pierre-qui-roule/</loc>
     <lastmod>2026-07-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/posts/pierre-qui-roule/"
+                href="http://localhost:1313/Personal-Portfolio/fr/posts/pierre-qui-roule/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/posts/pierre-qui-roule/"
+                href="http://localhost:1313/Personal-Portfolio/posts/pierre-qui-roule/"
                 />
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>http://localhost:1313/Personal-Portfolio/posts/</loc>
     <lastmod>2026-07-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/posts/"
+                href="http://localhost:1313/Personal-Portfolio/fr/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/posts/"
+                href="http://localhost:1313/Personal-Portfolio/posts/"
                 />
   </url><url>
-    <loc>http://localhost:1313/tags/project/</loc>
+    <loc>http://localhost:1313/Personal-Portfolio/tags/project/</loc>
     <lastmod>2026-07-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/tags/project/"
+                href="http://localhost:1313/Personal-Portfolio/fr/tags/project/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/tags/project/"
+                href="http://localhost:1313/Personal-Portfolio/tags/project/"
                 />
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>http://localhost:1313/Personal-Portfolio/tags/</loc>
     <lastmod>2026-07-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/tags/"
+                href="http://localhost:1313/Personal-Portfolio/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/tags/"
+                href="http://localhost:1313/Personal-Portfolio/tags/"
                 />
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://localhost:1313/Personal-Portfolio/</loc>
     <lastmod>2026-07-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/"
+                href="http://localhost:1313/Personal-Portfolio/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/"
+                href="http://localhost:1313/Personal-Portfolio/"
                 />
   </url><url>
-    <loc>http://localhost:1313/tags/blog/</loc>
+    <loc>http://localhost:1313/Personal-Portfolio/tags/blog/</loc>
     <lastmod>2025-06-30T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/tags/blog/"
+                href="http://localhost:1313/Personal-Portfolio/fr/tags/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/tags/blog/"
+                href="http://localhost:1313/Personal-Portfolio/tags/blog/"
                 />
   </url><url>
-    <loc>http://localhost:1313/posts/jusant/</loc>
+    <loc>http://localhost:1313/Personal-Portfolio/posts/jusant/</loc>
     <lastmod>2025-06-30T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/posts/jusant/"
+                href="http://localhost:1313/Personal-Portfolio/fr/posts/jusant/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/posts/jusant/"
+                href="http://localhost:1313/Personal-Portfolio/posts/jusant/"
                 />
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>http://localhost:1313/Personal-Portfolio/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/categories/"
+                href="http://localhost:1313/Personal-Portfolio/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/categories/"
+                href="http://localhost:1313/Personal-Portfolio/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/projects/</loc>
+    <loc>http://localhost:1313/Personal-Portfolio/projects/</loc>
   </url><url>
-    <loc>http://localhost:1313/series/</loc>
+    <loc>http://localhost:1313/Personal-Portfolio/series/</loc>
   </url>
 </urlset>
