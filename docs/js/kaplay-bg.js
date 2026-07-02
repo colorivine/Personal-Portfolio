@@ -14,7 +14,7 @@ window.addEventListener("mousemove", (e) => {
 
 // virtual:/scenes/game.js
 
-loadSprite("bean","/imgs/beanChara.png")
+loadSprite("bean","imgs/beanChara.png")
 var obj = add([
   sprite("bean"),
    // it renders as a sprite
