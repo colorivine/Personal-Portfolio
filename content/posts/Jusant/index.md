@@ -1,6 +1,6 @@
 ---
-title: Jusant
-date: 2023-01-15
+title: Jusant DLC 🌦️
+date: 2025-06-30
 draft: false
 tags:
   - Blog
@@ -8,27 +8,30 @@ tags:
   - Game
 cover:
   image: vignette.png
-  alt: post
-  caption: post
+  alt: jusantDLC
 ---
-Jusant DLC is a school project we made in two month. The aim was to create the vertical slice of a potential dlc for the game Jusant, after speaking whith the core team from studio.
+During my first year of the master’s program in game design, we had the opportunity to work with the team at *Don’t Nod*, the studio behind the game *Jusant*.
+
+The project was to create a **vertical slice of a DLC for this game in two months**. We were divided into two groups of 7 and 8, each composed of game designers and tech artists. Some tasks were worked on collaboratively (implementation of the core mechanic, character design).
 
 Here's how it turned out :
 
 {{< youtube lm_1f1BzOm0 >}}
 
-We were two teams of 6 and 7 people, composed each of game designers and tech artists
-
-[Gallery images]
+---
 
 For this project, I worked mainly on three aspects :
 
-Narrative design 
+### Narrative design 
 
 With the help of the team behind the original game, and some strangers on forums arguing on the theories about the game story, I studied all the aspects and temporalities of the lore. Then, I worked with my colleagues on their story ideas to ensure they were consistent with the rules of the universe
 
 Finally, 
+
 {{<figure src = "Jusant_storyline.png">}}
+
+{{<figure src = "vignette.png">}}
+
 
 ---
 

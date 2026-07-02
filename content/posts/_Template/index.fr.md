@@ -8,6 +8,7 @@ cover:
   image: vignette.png
   alt: modèle
   caption: modèle
+hiddenInHomeList: true
 ---
 
 Ceci est un modèle

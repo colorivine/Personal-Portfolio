@@ -6,23 +6,6 @@
     <description>Recent content in Projects on Victor Touroul</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 15 Jan 2023 09:00:00 -0700</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/projects/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Dragon de Glace</title>
-      <link>http://localhost:1313/posts/dragon-de-glace/</link>
-      <pubDate>Sun, 15 Jan 2023 09:00:00 -0700</pubDate>
-      <guid>http://localhost:1313/posts/dragon-de-glace/</guid>
-      <description>&lt;p&gt;Le projet &amp;ldquo;Dragon de Glace&amp;rdquo; est l&amp;rsquo;application concrète des compétences de level design d&amp;rsquo;une équipe de 3 level designers et &lt;em&gt;&lt;strong&gt;2 level artists&lt;/strong&gt;&lt;/em&gt;. L&amp;rsquo;ambition était de créer une expérience équilibrée&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>shrooms</title>
-      <link>http://localhost:1313/posts/shrooms/</link>
-      <pubDate>Sun, 15 Jan 2023 09:00:00 -0700</pubDate>
-      <guid>http://localhost:1313/posts/shrooms/</guid>
-      <description>&lt;figure&gt;
-    &lt;img loading=&#34;lazy&#34; src=&#34;shrooms_gif.gif&#34;/&gt; 
-&lt;/figure&gt;</description>
-    </item>
   </channel>
 </rss>

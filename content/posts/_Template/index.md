@@ -8,6 +8,7 @@ cover:
   image: vignette.png
   alt: template
   caption: template
+hiddenInHomeList: true
 ---
 
 This is a template

@@ -6,89 +6,25 @@
     <description>Recent content on Victor Touroul</description>
     <generator>Hugo</generator>
     <language>fr</language>
-    <lastBuildDate>Wed, 15 Feb 2023 09:00:00 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/fr/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Haunted West</title>
-      <link>http://localhost:1313/fr/posts/haunted-west/</link>
-      <pubDate>Wed, 15 Feb 2023 09:00:00 -0700</pubDate>
-      <guid>http://localhost:1313/fr/posts/haunted-west/</guid>
-      <description>&lt;figure&gt;
-    &lt;img loading=&#34;lazy&#34; src=&#34;6QGo44.gif&#34;/&gt; 
-&lt;/figure&gt;
-
-&lt;p&gt;Haunted West is a game made in 5 days during a school workshop. It is a top view 4 directional shooter where you must survive against hordes of angry ghosts.&lt;/p&gt;
-&lt;p&gt;Btn play&lt;/p&gt;
-&lt;p&gt;Gallery/carrousel assets&lt;/p&gt;
-&lt;p&gt;It was made using processing, a javascript based ide mainly used to create procedurally generated art.&lt;/p&gt;</description>
+      <title>Pierre Qui Roule 🪨</title>
+      <link>http://localhost:1313/fr/posts/pierre-qui-roule/</link>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fr/posts/pierre-qui-roule/</guid>
+      <description>&lt;p&gt;Ceci est un modèle
+Tempor proident minim aliquip reprehenderit dolor et ad anim Lorem duis sint eiusmod. Labore ut ea duis dolor. Incididunt consectetur proident qui occaecat incididunt do nisi Lorem. Tempor do laborum elit laboris excepteur eiusmod do. Eiusmod nisi excepteur ut amet pariatur adipisicing Lorem.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;What do you mean there is no moss ??&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Occaecat nulla excepteur dolore excepteur duis eiusmod ullamco officia anim in voluptate ea occaecat officia. Cillum sint esse velit ea officia minim fugiat. Elit ea esse id aliquip pariatur cupidatat id duis minim incididunt ea ea. Anim ut duis sunt nisi. Culpa cillum sit voluptate voluptate eiusmod dolor. Enim nisi Lorem ipsum irure est excepteur voluptate eu in enim nisi. Nostrud ipsum Lorem anim sint labore consequat do.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Tomato Adventure</title>
-      <link>http://localhost:1313/fr/posts/tomato-adventure/</link>
-      <pubDate>Wed, 15 Feb 2023 09:00:00 -0700</pubDate>
-      <guid>http://localhost:1313/fr/posts/tomato-adventure/</guid>
-      <description>&lt;figure&gt;
-    &lt;img loading=&#34;lazy&#34; src=&#34;gif1.gif&#34;
-         alt=&#34;gameplay de Tomato Adventure&#34;/&gt; &lt;figcaption&gt;
-            &lt;p&gt;gameplay de &lt;em&gt;Tomato Adventure&lt;/em&gt;&lt;/p&gt;
-        &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;Tomato Adventure est un court &lt;strong&gt;platformer 2D&lt;/strong&gt; d’exploration dans lequel le joueur incarne une tomate qui cherche à rejoindre son lit à la tombée de la nuit. Il a été réalisé entièrement sur la console virtuelle &lt;strong&gt;Pico8&lt;/strong&gt;.&lt;/p&gt;
-&lt;figure&gt;
-    &lt;img loading=&#34;lazy&#34; src=&#34;tomato.png&#34;
-         alt=&#34;Assets&#34;/&gt; &lt;figcaption&gt;
-            &lt;p&gt;Assets&lt;/p&gt;
-        &lt;/figcaption&gt;
-&lt;/figure&gt;</description>
-    </item>
-    <item>
-      <title>Boatrone</title>
-      <link>http://localhost:1313/fr/posts/boatrone/</link>
-      <pubDate>Wed, 15 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/fr/posts/boatrone/</guid>
-      <description>&lt;figure&gt;
-    &lt;img loading=&#34;lazy&#34; src=&#34;Jacket.png&#34;
-         alt=&#34;Cover for Boatrone&#34;/&gt; &lt;figcaption&gt;
-            &lt;p&gt;Cover for &lt;em&gt;Boatrone&lt;/em&gt;&lt;/p&gt;
-        &lt;/figcaption&gt;
-&lt;/figure&gt;</description>
-    </item>
-    <item>
-      <title>Jusant</title>
+      <title>Jusant DLC 🌦️</title>
       <link>http://localhost:1313/fr/posts/jusant/</link>
-      <pubDate>Sun, 15 Jan 2023 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 30 Jun 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/fr/posts/jusant/</guid>
-      <description>&lt;p&gt;Dans le cadre scolaire, j&amp;rsquo;ai eu l&amp;rsquo;occasion de réaliser la &lt;strong&gt;vertical slice d&amp;rsquo;un DLC du jeu Jusant.&lt;/strong&gt; Nous étions un groupe de 10 personnes (game designers, tech artists et concept artists)&lt;/p&gt;
-&lt;p&gt;Nous avons rencontré et échangé avec certains membres de la core team à l&amp;rsquo;origine du projet chez don&amp;rsquo;t nod.&lt;/p&gt;
-&lt;figure&gt;
-    &lt;img loading=&#34;lazy&#34; src=&#34;s-blob-v1-IMAGE-fRkc-BPGuvA.jpg&#34;/&gt; 
-&lt;/figure&gt;
-
-&lt;p&gt;Élaboration de nouvelles mécaniques environementales :&lt;/p&gt;
-&lt;p&gt;&lt;figure&gt;
-    &lt;img loading=&#34;lazy&#34; src=&#34;gif1.gif&#34;/&gt; 
-&lt;/figure&gt;
-
-&lt;figure&gt;
-    &lt;img loading=&#34;lazy&#34; src=&#34;gif2.gif&#34;/&gt; 
-&lt;/figure&gt;
-
-&lt;figure&gt;
-    &lt;img loading=&#34;lazy&#34; src=&#34;gif3.gif&#34;/&gt; 
-&lt;/figure&gt;
-
-&lt;figure&gt;
-    &lt;img loading=&#34;lazy&#34; src=&#34;gif6.gif&#34;/&gt; 
-&lt;/figure&gt;
-&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://localhost:1313/fr/posts/kepler-kisser/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/fr/posts/kepler-kisser/</guid>
-      <description></description>
+      <description>&lt;p&gt;Durant ma première année de master en game design, nous avons eu l&amp;rsquo;occasion de travailler avec l&amp;rsquo;équipe de &lt;em&gt;Don&amp;rsquo;t Nod&lt;/em&gt; à l&amp;rsquo;origine du jeu &lt;em&gt;Jusant&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Le projet était de réaliser la &lt;strong&gt;vertical slice d&amp;rsquo;un DLC de ce jeu en 2 mois&lt;/strong&gt;. Nous étions répartis en deux groupes de 7 et 8, composés chacun de game designers et tech artists. Certaines tâches ont été travaillées en commun (implémentation de la core mechanic, chara design). J&amp;rsquo;étais dans l&amp;rsquo;équipe de la 2ème partie, &lt;em&gt;Embrun&lt;/em&gt;.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
