@@ -47,3 +47,21 @@ Cet insecte de pierre peut supporter notre poids, mais aussi réveler des prises
 
 ### Level Design
 
+La vertical slice est composée de plusieurs étapes, qui alternent verticalité (murs à escalader) et horizontalité (repos, zones de marche).
+
+{{< image-gallery dir="/gallery - ld 1" >}} 
+
+Voici quelques exemples de LD que nous avons expérimenté :
+
+
+
+
+Et voici le déroulé du ld :
+
+{{<figure src = "a.png">}}
+
+---
+
+### Walktrhough
+
+{{< youtube tgCmA83_-eQ >}}

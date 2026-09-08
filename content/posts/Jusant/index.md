@@ -10,9 +10,9 @@ cover:
   image: vignette.png
   alt: jusantDLC
 ---
-During my first year of the master’s program in game design, we had the opportunity to work with the team at *Don’t Nod*, the studio behind the game *Jusant*.
+During my first year of the master's program in game design, we had the opportunity to work with the team at *Don't Nod*, the creators of the game *Jusant*.
 
-The project was to create a **vertical slice of a DLC for this game in two months**. We were divided into two groups of 7 and 8, each composed of game designers and tech artists. Some tasks were worked on collaboratively (implementation of the core mechanic, character design).
+The project was to create a **vertical slice of a DLC for this game in two months**. We were divided into two groups of 7 and 8, each consisting of game designers and tech artists. Some tasks were worked on collaboratively (implementation of the core mechanic, character design). I was on the team working on the second part, *Embrun*.
 
 Here's how it turned out :
 
@@ -20,27 +20,49 @@ Here's how it turned out :
 
 ---
 
-For this project, I worked mainly on three aspects :
+Personally, I mainly worked on these three areas:
 
-### Narrative design 
+### Narrative Design 
 
-With the help of the team behind the original game, and some strangers on forums arguing on the theories about the game story, I studied all the aspects and temporalities of the lore. Then, I worked with my colleagues on their story ideas to ensure they were consistent with the rules of the universe
+With the help of the *Don't Nod* team and forums full of discussions about the game's story, I studied the rules and major events of the lore. I made sure our story ideas were interesting and consistent with the timeline and rules of the original universe.
 
-Finally, 
+The DLC takes place after the Jusant; the tower’s inhabitants, who had descended into the depths, must now climb back to the surface, going against the current, to avoid being swallowed up.
 
 {{<figure src = "Jusant_storyline.png">}}
 
-{{<figure src = "vignette.png">}}
+---
+### Game Design - Core and Environmental Mechanics
 
+We kept the structure of Jusant’s mechanics: a core movement mechanic (climbing with fatigue management) and an environmental mechanic (the companion that activates various elements).
+
+We kept the climbing mechanic and replaced the companion with a new friend: Rak.
+
+{{< image-gallery dir="/gallery - mechanics 1" >}}
+
+This stone insect can support our weight and also reveal handholds beneath waterfalls.
+
+{{< image-gallery dir="/gallery - mechanics 2" >}} 
 
 ---
 
-### Game design - Core and environmental mechanics
+### Level Design
 
-The goal here was to add an unique core mechanic, which had to be credible in the game lore.
+The vertical slice consists of several stages that alternate between vertical sections (walls to climb) and horizontal sections (rest areas, walking zones).
 
-We took inspiration in the original game, where the main action is to climb, and the second is to use environmental objects with the help of your cute water companion. So, after many other ideas, we decided to replace the companion mechanic by an other one.
-I suggested that the new companion could carry us on it s back 
+{{< image-gallery dir="/gallery - ld 1" >}} 
 
-{{< image-gallery dir="/gallery - mechanics 1" >}}
-{{< image-gallery dir="/gallery - mechanics 2" >}} 
+Here are a few examples of level designs we’ve experimented with:
+
+
+
+
+
+And here’s how the LD plays out:
+
+{{<figure src = “a.png”>}}
+
+---
+
+### Walkthrough
+
+{{< youtube tgCmA83_-eQ >}}
