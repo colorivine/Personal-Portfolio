@@ -59,10 +59,10 @@ Here are a few examples of level designs we’ve experimented with:
 
 And here’s how the LD plays out:
 
-{{<figure src = “a.png”>}}
+
 
 ---
 
-### Walkthrough
+Walkthrough
 
 {{< youtube tgCmA83_-eQ >}}
