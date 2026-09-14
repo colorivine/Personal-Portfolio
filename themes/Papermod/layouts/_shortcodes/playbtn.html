@@ -1,0 +1,8 @@
+{{ $src := (.Get "src") }}
+{{ $txt := (.Get "txt") }}
+<div style="margin: 0px; display: flex; justify-content: right; align-items: center;">
+    <a class="playbtn" href='{{ $src }}' target="_blank">
+        {{ $txt }}
+        <img src="/imgs/redirect.png" style="width: 30px; height: 30px; margin: 0px; margin-left: 5px;"><img>
+    </a>
+</div>

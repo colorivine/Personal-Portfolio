@@ -1,8 +1,12 @@
 import kaplay from "https://unpkg.com/kaplay@3001.0.19/dist/kaplay.mjs";
+var style = window.getComputedStyle(document.body);
+var themeColor = style.getPropertyValue('--theme');
+
+
 
 const k = kaplay({
     canvas: document.getElementById("kaplay-bg"),
-    background: [0, 0, 0, 0],
+    background: [0,0,0,0],
 });
 
 let mouse = vec2(0, 0);
@@ -13,6 +17,16 @@ window.addEventListener("mousemove", (e) => {
      
 
 // virtual:/scenes/game.js
+
+onLoading((progress) => {
+    // White background
+    // drawRect({
+    //     width: width(),
+    //     height: height(),
+    //     color: rgb,
+    // });
+});
+
 
 loadSprite("bean","/imgs/beanChara.png")
 var obj = add([
