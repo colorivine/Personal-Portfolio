@@ -37,3 +37,9 @@
 
 - id: portfolioSubtitle
   translation: "The projects that best showcase my abilities, which I've worked on over the past few years."
+
+- id: homeFeaturedTitle
+  translation: "My big projects"
+
+- id: homeOthersTitle
+  translation: "Other projects"

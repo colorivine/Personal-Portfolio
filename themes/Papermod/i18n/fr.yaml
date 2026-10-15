@@ -37,3 +37,9 @@
 
 - id: portfolioSubtitle
   translation: "Les projets qui illustrent le mieux mes compétences, sur lesquels j'ai travaillé ces dernières années."
+
+- id: homeFeaturedTitle
+  translation: "Mes projets d'envergure"
+
+- id: homeOthersTitle
+  translation: "Tout mes projets"

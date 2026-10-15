@@ -20,6 +20,38 @@
     z-index: 1;
 }
 
+.post-entry {
+    background-color: var(--themeMidOpacity);
+    backdrop-filter: blur(5px);
+}
+
+.paginav {
+    backdrop-filter: blur(5px);
+}
+
+.post-tags li {
+    backdrop-filter: blur(5px);
+}
+
 html {
   scroll-behavior: smooth;
+}
+
+.home-entry-grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-content: space-between;
+}
+
+.home-cat-header {
+    margin-bottom: 40px;
+}
+
+@media (max-width: 768px) {
+
+}
+
+::selection {
+  background: var(--highlight-color);
 }

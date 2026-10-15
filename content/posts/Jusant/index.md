@@ -3,18 +3,17 @@ title: Jusant DLC 🌦️
 date: 2025-06-30
 draft: false
 tags:
-  - Blog
-  - Project
-  - Game
 cover:
   image: vignette.png
   alt: jusantDLC
+featured: true
+
 ---
 During my first year of the master's program in game design, we had the opportunity to work with the team at *Don't Nod*, the creators of the game *Jusant*.
 
 The project was to create a **vertical slice of a DLC for this game in two months**. We were divided into two groups of 7 and 8, each consisting of game designers and tech artists. Some tasks were worked on collaboratively (implementation of the core mechanic, character design). I was on the team working on the second part, *Embrun*.
 
-Here's how it turned out :
+## Trailer
 
 {{< youtube lm_1f1BzOm0 >}}
 
@@ -54,15 +53,12 @@ The vertical slice consists of several stages that alternate between vertical se
 Here are a few examples of level designs we’ve experimented with:
 
 
-
-
-
-And here’s how the LD plays out:
-
+{{<figure src = "ldrakcascade.png">}}
+{{<figure src = "ldrakpuzzle.png">}}
 
 
 ---
 
-Walkthrough
+## Walkthrough
 
 {{< youtube tgCmA83_-eQ >}}

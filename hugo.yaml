@@ -6,8 +6,10 @@ theme: ["PaperMod"]
 publishDir: /docs
 
 params:
-  homeInfoParams:
-    Title: "Portfolio"
+#  homeInfoParams:
+#    Title: "Portfolio"
+  favicon: "favicon.ico"
+  disableSpecial1stPost: true
   buttons:
     - name: Posts
       url: "/posts"
@@ -28,13 +30,16 @@ params:
     imageTitle: "me with my turning beans yepee" # optional
     imageWidth: 200 # custom size
     imageHeight: 200 # custom size
-    buttons:
-      - name: ↓ Portfolio ↓
-        url: "#portfolio"
+#    buttons:
+#      - name: ↓ Portfolio ↓
+#        url: "#portfolio"
   
-  ShowBreadCrumbs: true
-  ShowPostNavLinks: true
-
+  ShowBreadCrumbs: false
+  ShowPostNavLinks: false
+  
+  pagination:
+    pagerSize: 999
+  
 languages:
   en:
     languageName: "English"
@@ -43,29 +48,29 @@ languages:
       category: categories
       tag: tags
       series: series
-    menu:
-      main:
-        - name: Portfolio
-          url : .#portfolio
-          weight : 1
-        - name: Posts
-          url: posts
-          weight: 2
-        - name: Tags
-          url: tags/
-          weight: 3
+#    menu:
+ #     main:
+  #      - name: Portfolio
+   #       url : .#portfolio
+    #      weight : 1
+     #   - name: Posts
+      #    url: posts
+       #   weight: 2
+        #- name: Tags
+         # url: tags/
+          #weight: 3
         
   fr:
     languageName: "French"
     weight: 1
-    menu:
-      main:
-        - name: Portfolio
-          url : .#portfolio
-          weight : 1
-        - name: Posts
-          url: fr/posts
-          weight: 2
-        - name: Tags
-          url: fr/tags
-          weight: 3
+#    menu:
+ #     main:
+  #      - name: Portfolio
+   #       url : .#portfolio
+    #      weight : 1
+     #   - name: Posts
+      #    url: fr/posts
+       #   weight: 2
+        #- name: Tags
+         # url: fr/tags
+          #weight: 3

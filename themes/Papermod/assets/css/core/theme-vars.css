@@ -16,6 +16,7 @@
     --code-bg: rgb(255, 0, 0,0);
     --border: rgb(238, 238, 238);
     --themeMidOpacity: rgba(255, 255, 255, 0.8); /**/
+    --highlight-color: rgba(249, 177, 89, 0.494);
     color-scheme: light;
 }
 
@@ -30,6 +31,7 @@
     --code-bg: rgb(55, 56, 62, 0);
     --border: rgb(51, 51, 51);
     --themeMidOpacity: rgba(29, 30, 32, 0.8); /**/
+    --highlight-color: rgba(71, 48, 133, 0.514);
     color-scheme: dark;
 }
 

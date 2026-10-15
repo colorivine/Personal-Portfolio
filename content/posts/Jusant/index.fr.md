@@ -3,21 +3,21 @@ title: Jusant DLC 🌦️
 date: 2025-06-30
 draft: false
 tags:
-  - Blog
-  - Project
-  - Game
 cover:
   image: vignette.png
   alt: jusantDLC
+featured: true
 ---
 
 Durant ma première année de master en game design, nous avons eu l'occasion de travailler avec l'équipe de *Don't Nod* à l'origine du jeu *Jusant*.
 
 Le projet était de réaliser la **vertical slice d'un DLC de ce jeu en 2 mois**. Nous étions répartis en deux groupes de 7 et 8, composés chacun de game designers et tech artists. Certaines tâches ont été travaillées en commun (implémentation de la core mechanic, chara design). J'étais dans l'équipe de la 2ème partie, *Embrun*.
 
-{{<youtube lm_1f1BzOm0>}}
+Pour ce projet, j'ai eu l'occasion de travailler sur la narration, le game design et le level design.
 
-Pour ce projet, j'ai eu l'occasion de travailler sur la narration, le game design et le level design
+## Trailer
+{{<youtube lm_1f1BzOm0>}}
+###
 
 ---
 

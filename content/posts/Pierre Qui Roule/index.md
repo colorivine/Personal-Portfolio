@@ -8,6 +8,7 @@ tags:
 cover:
   image: vignette.png
   alt: pierreQuiRoule
+featured: true
 ---
 {{<youtube gmMTRlQgJD4>}}
 
